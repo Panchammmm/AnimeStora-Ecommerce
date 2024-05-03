@@ -80,8 +80,9 @@ nav li:first-child {
 }
 
 .profile {
-    transform: scale(0.6);
+    transform: scale(0.56);
     border-radius: 50%;
+    padding-bottom: 6px;
 }
 
 .pro-cross-btn {
