@@ -10,7 +10,7 @@ export default function BgSearch() {
             <div className="bg-container">
                 <img src={BG} alt="bg"></img>
 
-                <h1>Anistora Exclusives</h1>
+                <h1>Brand New Collection</h1>
 
                 <div class="search-container">
                     <input type="text" placeholder="Search"></input>
