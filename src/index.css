@@ -7,9 +7,8 @@
 }
 
 body {
-  /* background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png"); */
-  /* background-image: url("https://www.transparenttextures.com/patterns/white-diamond.png"); */
-  background-image: url("https://www.transparenttextures.com/patterns/white-diamond-dark.png");
+  background-image: url("https://www.transparenttextures.com/patterns/diagonal-striped-brick.png");
+  /* background-image: url("https://www.transparenttextures.com/patterns/white-diamond-dark.png"); */
 }
 
 /* Scrollbar Styles */

@@ -13,7 +13,7 @@ export function Product(props) {
           <p>{props.description}</p>
         </div>
 
-        <button>Add to Cart</button>
+        <button>+ Add to Cart</button>
       </div>
     </>
   );
